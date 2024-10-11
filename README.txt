@@ -1,4 +1,4 @@
-This is the README for Project 2! 
+This is the README for Conways Game of Life! 
 When replicating the results from my project it is best to run the java Exploration file. 
 
 When replicating the results from my first extension it is best to call  
